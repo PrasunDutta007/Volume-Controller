@@ -1,6 +1,6 @@
 # Volume Controller (OpenCV)
 
-
+<img src="Screenshots/Volume.gif" width="100%" height="500">
 
 
 
