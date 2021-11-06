@@ -14,8 +14,8 @@
 
 ##### 1) Mediapipe
 ##### 2) OpenCV
-##### 3) pyclaw
-##### 4) numpy
+##### 3) Pyclaw
+##### 4) Numpy
 
 
   
